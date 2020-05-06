@@ -88,6 +88,8 @@ sudo apt-get install -y \
     libxvidcore-dev \
     libx264-dev \
     qt5-default \
+    qt5-qmake \
+    qt5ct \
     zlib1g-dev \
     pkg-config
 
